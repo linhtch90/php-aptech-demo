@@ -1,0 +1,6 @@
+- PDO: PHP Data Object
+- Default local DB connection:
+  - Username: root
+  - Password: leave empty
+- Create PDO -> call query -> return data
+- 
